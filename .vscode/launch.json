@@ -14,12 +14,12 @@
             "cwd": "${workspaceFolder}/Catalog",
             "stopAtEntry": false,
             // Remove below block comment on first setup
-            /*
+            
             "serverReadyAction": {
                 "action": "openExternally",
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
             },
-            */
+            
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
